@@ -1,0 +1,47 @@
+﻿  pch.cpp
+  CObject.cpp
+  dllmain.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+  ImRender.cpp
+  phook.cpp
+  Orbwalker.cpp
+C:\Users\Shadow\source\repos\InvictusSharp\InvictusSharp\Activator.hpp(116,17): warning C4244: "=": Konvertierung von "double" in "LONG", möglicher Datenverlust
+C:\Users\Shadow\source\repos\InvictusSharp\InvictusSharp\Activator.hpp(117,17): warning C4244: "=": Konvertierung von "double" in "LONG", möglicher Datenverlust
+C:\Users\Shadow\source\repos\InvictusSharp\InvictusSharp\Activator.hpp(135,17): warning C4244: "=": Konvertierung von "double" in "LONG", möglicher Datenverlust
+C:\Users\Shadow\source\repos\InvictusSharp\InvictusSharp\Activator.hpp(136,17): warning C4244: "=": Konvertierung von "double" in "LONG", möglicher Datenverlust
+C:\Users\Shadow\source\repos\InvictusSharp\InvictusSharp\Orbwalker.cpp(43,16): warning C4244: "=": Konvertierung von "double" in "LONG", möglicher Datenverlust
+C:\Users\Shadow\source\repos\InvictusSharp\InvictusSharp\Orbwalker.cpp(44,16): warning C4244: "=": Konvertierung von "double" in "LONG", möglicher Datenverlust
+C:\Users\Shadow\source\repos\InvictusSharp\InvictusSharp\Orbwalker.cpp(65,16): warning C4244: "=": Konvertierung von "double" in "LONG", möglicher Datenverlust
+C:\Users\Shadow\source\repos\InvictusSharp\InvictusSharp\Orbwalker.cpp(66,16): warning C4244: "=": Konvertierung von "double" in "LONG", möglicher Datenverlust
+  OrbwalkerEngine.cpp
+  TargetSelector.cpp
+C:\Users\Shadow\source\repos\InvictusSharp\InvictusSharp\TargetSelector.cpp(62,33): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Shadow\source\repos\InvictusSharp\InvictusSharp\TargetSelector.cpp(63,33): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Shadow\source\repos\InvictusSharp\InvictusSharp\TargetSelector.cpp(110,33): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Shadow\source\repos\InvictusSharp\InvictusSharp\TargetSelector.cpp(111,33): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Shadow\source\repos\InvictusSharp\InvictusSharp\TargetSelector.cpp(160,33): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Shadow\source\repos\InvictusSharp\InvictusSharp\TargetSelector.cpp(161,33): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+  Visuals.cpp
+C:\Users\Shadow\source\repos\InvictusSharp\InvictusSharp\Visuals.cpp(230,37): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Shadow\source\repos\InvictusSharp\InvictusSharp\Visuals.cpp(230,32): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Shadow\source\repos\InvictusSharp\InvictusSharp\Visuals.cpp(230,25): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Shadow\source\repos\InvictusSharp\InvictusSharp\Visuals.cpp(261,37): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Shadow\source\repos\InvictusSharp\InvictusSharp\Visuals.cpp(261,32): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Shadow\source\repos\InvictusSharp\InvictusSharp\Visuals.cpp(261,25): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Shadow\source\repos\InvictusSharp\InvictusSharp\Visuals.cpp(309,1): warning C4005: "TEXT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(603): message : Siehe vorherige Definition von "TEXT"
+  buffer.c
+  hde32.c
+  hde64.c
+  hook.c
+  trampoline.c
+  Code wird generiert.
+  Previous IPDB not found, fall back to full compilation.
+  All 1240 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  InvictusSharp.vcxproj -> C:\Users\Shadow\source\repos\InvictusSharp\Release\InvictusSharp.dll

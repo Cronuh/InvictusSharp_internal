@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  CObject.cpp
+C:\Users\Shadow\source\repos\InvictusSharp\InvictusSharp\CObject.cpp(133,1): fatal error C1010: Unerwartetes Dateiende während der Suche nach dem vorkompilierten Header. Haben Sie möglicherweise vergessen, im Quellcode "#include "pch.h"" einzufügen?
+  dllmain.cpp
+C:\Users\Shadow\source\repos\InvictusSharp\InvictusSharp\d3dx9math.h(10,10): warning C4067: Unerwartete Token nach Präprozessordirektive - Zeilenvorschub erwartet.
+  Orbwalker.cpp
+C:\Users\Shadow\source\repos\InvictusSharp\InvictusSharp\Orbwalker.cpp(38,1): fatal error C1010: Unerwartetes Dateiende während der Suche nach dem vorkompilierten Header. Haben Sie möglicherweise vergessen, im Quellcode "#include "pch.h"" einzufügen?
+  OrbwalkerEngine.cpp
+C:\Users\Shadow\source\repos\InvictusSharp\InvictusSharp\OrbwalkerEngine.cpp(62,1): fatal error C1010: Unerwartetes Dateiende während der Suche nach dem vorkompilierten Header. Haben Sie möglicherweise vergessen, im Quellcode "#include "pch.h"" einzufügen?
+  TargetSelector.cpp
+C:\Users\Shadow\source\repos\InvictusSharp\InvictusSharp\TargetSelector.cpp(38,1): fatal error C1010: Unerwartetes Dateiende während der Suche nach dem vorkompilierten Header. Haben Sie möglicherweise vergessen, im Quellcode "#include "pch.h"" einzufügen?
+  Code wird generiert...
